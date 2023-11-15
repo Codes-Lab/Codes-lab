@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Codes-Lab/Codes-lab/blob/main/banner.gif)](https://github.com/Codes-Lab)
+[![MasterHead](https://github.com/Codes-Lab/Codes-lab/blob/main/programmer-banner.gif)](https://github.com/Codes-Lab)
 <h1 align="center">Hi 👋, I'm Abhishek Mundewal</h1>
 <h3 align="center">A passionate backend software developer from India with a big curiosity about technology and how it impacts our lives. Currently working in Germany.</h3>
 <img alight="right" alt="Coding" width="400" src="https://github.com/Codes-Lab/Codes-lab/blob/main/java-programmer-gif.gif">
