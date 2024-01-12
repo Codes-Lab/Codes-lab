@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Helm Charts**
 
-- 📝 I regularly write articles on [https://medium.com](https://medium.com)
+- 📝 I regularly write articles on [(https://medium.com/@mak0024))]
 
 - 💬 Ask me about **Java, Microservices, Containerization, Azure**
 
