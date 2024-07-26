@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@amundewal" target="blank"><img src="https://img.shields.io/twitter/follow/@amundewal?logo=twitter&style=for-the-badge" alt="@amundewal" /></a> </p>
 
-- 🔭 I’m currently working on **Apache Superset**
+- 🔭 I’m currently upgrading the projects to "Spring 6, Hibernate 6 and Java 21"
 
 - 🌱 I’m currently learning **React, Helm Charts**
 
