@@ -7,22 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/@amundewal" target="blank"><img src="https://img.shields.io/twitter/follow/@amundewal?logo=twitter&style=for-the-badge" alt="@amundewal" /></a> </p>
 
-- 🔭 I’m currently upgrading the projects to "Spring 6, Hibernate 6 and Java 21"
-
-- 🌱 I’m currently learning **React, Helm Charts**
-
 - 📝 I regularly write articles on [(https://medium.com/@mak0024))]
 
 - 💬 Ask me about **Java, Microservices, Containerization, Azure**
 
 - 📫 How to reach me **mundewal@gmail.com**
 
-- ⚡ Fun fact **I am Funny.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@amundewal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@amundewal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishek mundewal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek mundewal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abhishek-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhishek-m" height="30" width="40" /></a>
 <a href="https://medium.com/@mak0024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mak0024" height="30" width="40" /></a>
 </p>
